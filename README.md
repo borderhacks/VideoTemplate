@@ -52,8 +52,6 @@ For those hackers who aren't experienced with video editing, there is a video te
 
 4. To add your OBS recordings, near the bottom-left corner of the screen, there should be a *Media* tab with a button *Import*. Click *Import* and then find your video recording. The video should show up below the Import button along with the other text elements and images. Drag the video to the tab in the Editor that says *Add Video/Screenshots Here*.
 
-![Main Editor](https://drive.google.com/uc?export=view&id=1O3_CRZTNOjT7pguLoWenOXsUy7ryubzj)
-
 5. To cut your video (should you have made an error), position the black play bar over where you want to cut the clip, select the video box (should display orange when selected) and right click it. Then click the option *Slice* or if you are using Windows, you can also use the keyboard shortcut Ctrl + Shift + D. This will split the clip into two. Do this over both areas where the error is, then you can delete the mistake.
 
 6. Keep on editing! Once you're done, at the top of the editor, click *Export/Export Now/Contents*. Then the video will export in the path given in the Output section of the Export tab (should be defaulted to your Videos folder).
