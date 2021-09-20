@@ -58,4 +58,4 @@ For those hackers who aren't experienced with video editing, there is a video te
 
 That is everything you should know about video editing! Should you have any questions, please reach out to Justin Bornais in the BorderHacks Discord Server.
 
-### Happy Hacking!
+# Happy Hacking!
